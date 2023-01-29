@@ -1,0 +1,85 @@
+* {
+    color: red;
+}
+
+/**
+    Element Selector
+**/
+
+h1 {
+    color: red;
+}
+
+
+/**
+    Class Selector
+**/
+
+.csit {
+    color: blue;
+}
+
+/**
+ID Selector 
+**/
+#engineering {
+    color: purple;
+}
+
+
+/** 
+Grouping Selector
+**/
+.success, .error {
+    color: white;
+}
+
+
+
+
+.success {
+    background-color: greenyellow;
+}
+
+.error {
+    background-color: red;
+}
+
+/**
+    Chaining Selectors
+**/
+
+.message.success {
+    background-color: greenyellow;
+}
+
+.message {
+    background: orange;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    text-transform: lowercase;
+    text-align: justify;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: 500px;
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+    background-image: url('https://variety.com/wp-content/uploads/2022/11/CK52475_00196_35_NEG_N_COL_ORIG_V001-Photo-Credit-Jill-Greenberg-e1667974334479.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);        
+}
+
+
+
+
