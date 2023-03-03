@@ -1,0 +1,36 @@
+/* p {
+    background-color: peachpuff;
+    border: 10px solid palegreen;
+    padding: 20px 20px;
+    margin: 40px;
+    box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    background-color: brown;
+    margin-right: 100px;
+    padding: 20px;
+    border: 5px solid red;
+} */
+
+body {
+    background-color: #eee;
+}
+
+.card {
+    width: 300px;
+    background-color: #fff;
+    margin: 60px;
+}
+
+.card-image {
+    width: 100%;
+}
+
+.card-image img {
+    width: 100%;
+}
+
+.card-detail {
+    padding: 0px 0px 20px 20px;
+}
